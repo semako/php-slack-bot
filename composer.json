@@ -1,7 +1,7 @@
 {
-    "name": "jclg/php-slack-bot",
+    "name": "semako/php-slack-bot",
     "description": "Slack bot user written in PHP",
-    "homepage": "https://github.com/jclg/php-slack-bot",
+    "homepage": "https://github.com/semako/php-slack-bot",
     "license": "MIT",
     "require": {
         "devristo/phpws": "dev-master",
@@ -11,6 +11,10 @@
         {
             "name": "jclg",
             "email": "jeancharleslegoff@gmail.com"
+        }, 
+        {
+            "name": "semako",
+            "email": "semako.ua@gmail.com"
         }
     ],
     "autoload": {
