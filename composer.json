@@ -4,8 +4,8 @@
     "homepage": "https://github.com/semako/php-slack-bot",
     "license": "MIT",
     "require": {
-        "devristo/phpws": "dev-master",
-        "react/http": "^0.4"
+        "semako/phpws": "1.0.1",
+        "react/http": "0.4.4"
     },
     "authors": [
         {
